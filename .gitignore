@@ -1,0 +1,20 @@
+# Compiled files
+*.class
+target/
+
+# IDE
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# Build
+build/
+bin/
+
+# Dependencies
+lib/
